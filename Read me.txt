@@ -1,17 +1,6 @@
-Hello!
-
-There are two files here
-1)individual modules
-2)the main program
-
-The individual modules file is to show every team members' code and is not meant for testing.
-
-The main program on the other hand is the actual program where every modules
-are integrated into one with GUI.
-
 There are list of ids and password that you can try from:
 
-ID:1161100
+ID:1161100 
 Password:141414
 
 ID:1161101
@@ -26,5 +15,5 @@ Password:161616
 ID:1161104
 Password:151515
 
-ID 1161100 is meant to access the feedbacks left by other user.This id does not have access to other features.
-Thank you for yout time!
+ID 1161100 is (an admin and)meant to access the feedbacks left by other user.This id does not have access to other features.
+Thank you for your time!
