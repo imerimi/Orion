@@ -1,4 +1,3 @@
-#Konnichiwa,ganbateh! O_O
 from tkinter import *
 import tkinter.font as tkFont
 import datetime
